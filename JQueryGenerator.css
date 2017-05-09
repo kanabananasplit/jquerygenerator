@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td{
+	border: 1px solid black;
+	padding: 3px 10px 3px 10px;
+}
+
+.highlightBackground{
+	background: #DDD;
+}
+
+.darkLineE10{
+	border-bottom: 5px solid black;
+}
+
+.noFormat{
+	border-bottom: none;
+	background: none;
+}
